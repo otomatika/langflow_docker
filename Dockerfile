@@ -1,1 +1,1 @@
-from langflowai/langflow
+from langflowai/langflow:latest
